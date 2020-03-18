@@ -30,3 +30,5 @@ Humayuns-Air:Downloads SadiaFarzana$ chmod u+x my_program
 Humayuns-Air:Downloads SadiaFarzana$ ./my_program 
 
 Humayuns-Air:Downloads SadiaFarzana$ 
+#My question number 3 a
+sudo curl -0 /Users/Sadia/test-signal.sh https://www.staff.hs-mittweida.de/~wuenschi/data/media/compbiolbook/chapter-10-shell-programming--time-signal.sh
